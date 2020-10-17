@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/krombopulosM/Anti-Raid-bot-for-rust)](https://repl.it/github/krombopulosM/Anti-Raid-bot-for-rust)
+
 # Rust Anti-Raid bot
 
 Rust Anti-raid bot for detecting intruders and reporting back to your discord server. Made in Python 3.6 and Tesseract-OCR, it monitors if the "Respawn" button is located in the bottom right (indicating death) and will then @everyone in the channel specified every X seconds (default is 3).
